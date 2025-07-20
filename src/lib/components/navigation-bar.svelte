@@ -9,7 +9,7 @@
       if (heroSection) {
         const heroRect = heroSection.getBoundingClientRect();
         // Hide navigation when hero section is in view
-        isVisible = heroRect.top > 0 || heroRect.bottom < window.innerHeight * 0.5;
+        isVisible = heroRect.top > 0 || heroRect.bottom < window.innerHeight * 0.3;
       }
     };
     
@@ -32,12 +32,12 @@
       <div class="flex items-center justify-between">
         <div class="flex items-center">
           <a href="/" class="text-2xl font-bold text-gray-800 ">
-            <img src="/image.png" alt="logo" class="h-8 w-16  ">
+            <img src="/logo.png" alt="logo" class="h-8 w-16  ">
           </a>
         </div>
         <nav class="flex space-x-4">
           <a href="/home" class=" ">Home</a>
-          <a href="/about" class=" ">About</a>
+          <a href="#about" class=" ">About</a>
           <a href="/contact" class=" ">Contact</a>
         </nav>
       </div>

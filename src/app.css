@@ -1,6 +1,15 @@
 @import 'tailwindcss';
+@theme{
+  --sage-moss: #7D9D73;
+  --almond-cloud: #FFFCF3;
+
+}
+html {
+  scroll-behavior: smooth;
+}
 
 body {
-  background-color: #fffcf3;
+  background-color: var(--almond-cloud);
   color: black;
 }
+

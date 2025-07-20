@@ -2,6 +2,9 @@
 <script lang="ts">
   import NavigationBar from "$lib/components/navigation-bar.svelte";
   import Hero from "$lib/components/hero.svelte";
+  import About from "$lib/components/about.svelte";
+  import Skills from "$lib/components/skills.svelte";
+  import Projects from "$lib/components/projects.svelte";
 </script>
 
 <svelte:head>
@@ -13,5 +16,8 @@
 <main>
   <NavigationBar />
   <Hero />
-  <div class="h-svh"></div>
+  <About />
+
+  <Skills />
+  <Projects />
 </main>
