@@ -26,6 +26,7 @@
   class="sticky top-0 z-50 w-full border-b-2 border-b-white/10 backdrop-blur-md rounded-b-2xl transition-opacity duration-300 ease-in-out"
   class:opacity-0={!isVisible}
   class:opacity-100={isVisible}
+  aria-label="Navigation Bar"
 >
   <div class="mx-auto max-w-7xl sm:px-2 px-4 py-6">
     <header>

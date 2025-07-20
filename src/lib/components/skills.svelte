@@ -1,5 +1,5 @@
 
-<section class="w-full ">
+<section class="w-full " aria-label="Tech Stack">
 <div class="mx-auto max-w-7xl sm:px-4 px-8 py-6 z-40">  
   <h1 class="p-4 text-5xl text-center font-bold ">Tech Stack</h1>
   <div class="grid grid-cols-3 md:grid-cols-6 gap-4 space-y-4 mt-16 align-middle">

@@ -18,12 +18,14 @@
 </script>
 
 
-<section class="mx-auto max-w-7xl sm:px-4 px-8 pt-80 z-40 h-svh " data-hero>
+<section class="mx-auto max-w-7xl sm:px-4 px-8 pt-80 z-40 h-svh " data-hero aria-label="Hero Section">
   <div class="grid grid-cols-3 ">
     <div class="grid col-span-2 ">
       <h1 class="text-8xl md:text-9xl font-bold  mb-4 ">JACOB ONG</h1>
       <p class="text-xl md:text-3xl mb-20">Frontend Engineer + UI/UX Designer </p>
+      <a href="#about">
       <p class="text-[var(--sage-moss)] underline">Scroll down for more info</p>
+      </a>
     </div>
 
     <div class="hidden sm:block ">

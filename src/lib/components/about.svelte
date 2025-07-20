@@ -1,6 +1,6 @@
 
 
-<section class="mx-auto max-w-7xl sm:px-2 px-4 py-16 z-40" id="about">
+<section class="mx-auto max-w-7xl sm:px-2 px-4 py-16 z-40" id="about" aria-label="About Me">
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
     <div>
       <h1 class="text-5xl font-bold mb-8 md:mb-12 uppercase">About Me</h1>

@@ -1,7 +1,7 @@
 
-<section class="w-full py-16" id="projects">
+<section class="w-full py-16" id="projects" aria-label="Projects">
   <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-    <h2 class="text-5xl font-bold text-center mb-16 uppercase">Projects</h2>
+    <!-- <h2 class="text-5xl font-bold text-center mb-16 uppercase">Projects</h2> -->
     
     <!-- Project 1 -->
     <div class="flex flex-col md:flex-row-reverse w-full gap-8 p-8 mb-16">
@@ -9,7 +9,7 @@
       <div class="flex-1">
         <div class="border border-gray-200 rounded-lg overflow-hidden hover:scale-90 transition-transform duration-300 ease-in-out hover:grayscale">
           <img 
-            alt="Freelancer Tool Project" 
+            alt="Lancer - Freelancer Tool Project" 
             loading="lazy" 
             width="400" 
             height="300" 
@@ -52,7 +52,7 @@
       <div class="flex-1">
         <div class="border border-gray-200 rounded-lg overflow-hidden hover:scale-90 transition-transform duration-300 ease-in-out hover:grayscale-50">
           <img 
-            alt="Freelancer Tool Project" 
+            alt="Techtalk - Freelance Project" 
             loading="lazy" 
             width="400" 
             height="300" 
@@ -95,7 +95,7 @@
       <div class="flex-1">
         <div class="border border-gray-200 rounded-lg overflow-hidden hover:scale-90 transition-transform duration-300 ease-in-out hover:grayscale-50">
           <img 
-            alt="Freelancer Tool Project" 
+            alt="PanTreat - Food Sharing App" 
             loading="lazy" 
             width="400" 
             height="300" 
@@ -138,7 +138,7 @@
       <div class="flex-1">
         <div class="border border-gray-200 rounded-lg overflow-hidden hover:scale-90 transition-transform duration-300 ease-in-out hover:grayscale">
           <img 
-            alt="Freelancer Tool Project" 
+            alt="Personal Portfolio v1" 
             loading="lazy" 
             width="400" 
             height="300" 
